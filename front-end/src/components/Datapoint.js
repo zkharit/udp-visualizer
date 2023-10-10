@@ -6,7 +6,7 @@ export const Datapoint = (props) => {
     ? 
       <div className="container">
         <input type="text" value={data} onChange={ e => enterData(e.target.value, index) } className="text-input"/>
-        <button onClick={() => sendData(data, index)} disabled={!data || disabled}>Submit</button>
+        <button onClick={() => sendData(data, index)} disabled={!data || disabled}>Send</button>
       </div>
     :
       <div className="container">
