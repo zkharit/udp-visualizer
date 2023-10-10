@@ -33,5 +33,25 @@ To tart the front-end in developmeent mode run the following commands:
 - `npm start`
 
 ## Gallery
+The configuration values and data used here are for example purposes.
+
+The udp-visualizer homepage:
+![image](https://github.com/zkharit/udp-visualizer/assets/43216427/def597ad-947a-44ce-a81a-ae98836c5426)
+
+The udp-visualizer source configuration page:
+![image](https://github.com/zkharit/udp-visualizer/assets/43216427/6bad0f0c-2e51-48fc-8d01-461a5c55d76e)
+
+The udp-visualizer source send data page:
+![image](https://github.com/zkharit/udp-visualizer/assets/43216427/f22c1518-fc29-49b8-872c-ae5045ddfb76)
+
+The udp-visualizer destination configuration page:
+![image](https://github.com/zkharit/udp-visualizer/assets/43216427/3da78421-31b8-475a-82d8-a426dfd74b41)
+
+The udp-visualizer destination receivie data page:
+(before receiving data)
+![image](https://github.com/zkharit/udp-visualizer/assets/43216427/b53a336d-5365-41b7-a3c0-8e67e6a9d540)
+(after receiving data)
+![image](https://github.com/zkharit/udp-visualizer/assets/43216427/5a44e208-d236-4bb3-87ec-9c135f8d9d74)
+
 
 
