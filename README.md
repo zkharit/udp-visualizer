@@ -24,12 +24,14 @@ The following environment variables need to be configured. The default values fo
 To start the back-end in development mode run the following commands:
 
 - `cd back-end`
+- `npm install`
 - `npm run dev`
 
 ### front-end
 To tart the front-end in developmeent mode run the following commands:
 
 - `cd front-end`
+- `npm install`
 - `npm start`
 
 ## Gallery
